@@ -9,7 +9,7 @@ ottobong/ottobong is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ottobong&theme=gotham)](https://github.com/ottobong/github-readme-stats) <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ottobong&theme=gotham)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ottobong&theme=great-gatsby)](https://github.com/ottobong/github-readme-stats) <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ottobong&theme=great-gatsby)](https://git.io/streak-stats)
 
 
