@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **christopherottobong@gmail.com**
 
-- 📝 UI/UX Portfolio **mainstack.me/ottobongchris**
+- 📝 UI/UX Portfolio <a href = "mainstack.me/ottobongchris">Show me<a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
